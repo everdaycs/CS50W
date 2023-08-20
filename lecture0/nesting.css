@@ -1,0 +1,14 @@
+div {
+  font-size: 20px;
+}
+div p {
+  color: gray;
+}
+div ol {
+  color: gold;
+}
+div ul {
+  color: greenyellow;
+}
+
+/*# sourceMappingURL=nesting.css.map */
